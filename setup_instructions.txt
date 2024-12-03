@@ -1,0 +1,21 @@
+Setup Instructions:
+
+1. **Clone the Repository**:
+git clone <repository-url>
+cd <repository-directory>
+
+
+2. **Create and Activate Virtual Environment**:
+
+3. **Install Dependencies**:
+
+4. **Update Configuration**:
+- **config.py**: Update paths and credentials as needed.
+- **main_program_module.py**: Adjust any hardcoded paths or settings specific to the new environment.
+
+5. **Run the Script**:
+
+6. **Other Considerations**:
+- Ensure any local resources (e.g., databases, files) are properly set up and accessible.
+- Check for environment-specific settings that might need adjustment (e.g., paths, URLs).
+
